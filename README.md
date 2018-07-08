@@ -1,1 +1,1 @@
-# Calculator
+# my first program, a simple calculator.
